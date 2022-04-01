@@ -22,3 +22,17 @@
 - The landlady is rude and horribly noisy.
 - Atonment (reparation for a wrong or injury).
   - she wanted to make atonement for her husband's behavior
+- remove and Stripped myself off the entire makeup
+- It was an Incredibly stupid thing
+- I will be eternally grateful to you.
+- I almost jumped out of my skin.
+- Only now I am beginning to grasp.
+- The feeling sort of disappeared.
+- Off you go
+- Undying gratitude
+- An unrealistic witness
+- I will be quite honest with you
+- I am really sorry for the Terrible Stress that I caused you.
+- Strangely enough
+- Absolute truth
+- A final act of Kindness
