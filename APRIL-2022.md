@@ -21,7 +21,9 @@
 - You cannot really possibly imagine
 - The landlady is rude and horribly noisy.
 - Atonment (reparation for a wrong or injury).
-  - she wanted to make atonement for her husband's behavior
+  - Make amends
+  - EXAMPLE
+    - she wanted to make atonement for her husband's behavior
 - remove and Stripped myself off the entire makeup
 - It was an Incredibly stupid thing
 - I will be eternally grateful to you.
