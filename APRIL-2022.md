@@ -1,6 +1,6 @@
 # APRIL
 
-# 01/APRIL/2022 -
+# 01/APRIL/2022 (FRIDAY) -
 
 - Breathing Heavily
 - Thanks <Barny>, You are a real brick.
@@ -38,3 +38,30 @@
 - Strangely enough
 - Absolute truth
 - A final act of Kindness
+
+# 04/APRIL/2022 (MONDAY) -
+
+9
+
+### Vocabularies
+
+- 1. Metric - A measurement system based on metres and grams.
+- 2. hoax - A fake report to trick people into believing something. (pull the hoax)
+- 3. gullible (susceptible, trusting, unwary, wide-eyed) - Easily tricked believing anything.
+- 4. fall for - To believe in somoeone's trick or joke.
+- 5. scope - The variety or range (wide or narrow)
+- 6. practical joke - A trick played on a person to make others laugh.
+- 7. masses - A large number of people.
+- 8. product launch - An event that promotes a new item for sale.
+- 9. legendry - Known by many for a long time.
+- 10. thrive - To develop or grow very well.
+- 11. read someones mind - To know what someone is thinking.
+- 12. slogan - A phrase that describes a product or company's purpose.
+- 13. In bad taste - Impolite and hurtful.
+- 14. ban - To not allow anymore
+
+### SUMMARY
+
+- Some jokes go too far?
+- Kerfuffle - ker·fuf·fle - a disturbance or commotion typically caused by a dispute or conflict
+  - My dog has caused a real Kerfuffle.
