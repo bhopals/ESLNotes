@@ -128,3 +128,104 @@ Instead of saying "I Don't know", there are some better phrases (14 ways) that y
 
 - Where is jack? Search me!
 - He performed well on the interview. Will he got the job? Search me!
+
+### Avoid these common English Mistakes (Learn English with Let's Talk - Free English Lessons)
+
+1. DON'T SAY - `MySelf` Bhopal
+
+- `My name is` Bhopal and I am from India
+- `I am Bhopal` and I am fron India
+
+2. DON'T SAY - He is my cousin `brother`
+
+- He is my cousin
+- She is my cousin.
+
+3. DON'T SAY - What is your `good` name?
+
+- What is your name?
+- May I know your name?
+
+4. DON'T SAY - I will revert `back to you` (Revert means "Get Back to you")
+
+- I will `revert` on this.
+- I will `revert` on email.
+
+5. DON'T SAY- He is my `Mr.` / She is my `Mrs.` (Mr. / Mrs. are just an acronym for Titles)
+
+- He is my husband
+- She is my wife.
+
+6. DON'T SAY- What are you discussion `about`? (Dont say use about with Discuss)
+
+- What are your discussing?
+- I was discussing how the weather has changed recently.
+
+7. DON'T SAY- I am going to `give` an exam. (EXAM Dena - take)
+
+- `take` exam / `write` exam / `sit for` an exam
+- I am going to `take` an exam
+- Please do not disturb me. I am `sitting` for an exam tomorrow.
+- I `wrote` three exams and passed all of them.
+
+8. DON'T SAY- Happy `Marriage` Anniversay
+
+- Happy `wedding` anniversary
+- We are celebrating 25th `wedding` anniversary
+- I forgot to wish my brother on his `wedding` anniversay. Now he is upset.
+
+9. DON'T SAY- `Did` a Mistake
+
+- `Make` a mistake
+- Ops! I `made` a mistake by asking your age.
+- Do not `make` that mistake again, I am warning you.
+
+10. DON'T SAY- I `saw` a dream last night. (you did not actually see/saw the dream as you were not conscious)
+
+- I `had` a dream.
+- I `had` a dream of you buying a house in Mumbai.
+- I `dreamt` of passing the IIT entrance Exam.
+
+11. DON'T SAY- I have watched that movie `yesterday` (When we use HAVE in sentence - past perfect -, Dont give specific timeline )
+
+- I have watched that movie `recently`.
+- I have eaten my lunch not so long `ago`.
+
+12. DON'T SAY- I went there three years `back`
+
+- I went there three years `ago`.
+- I finished my degree about 10 years `ago`.
+- I am sorry I didn't know you left india many years `ago`.
+
+13. DON'T SAY- One of my `friend` is in America - One `friend` Out of many friends
+
+- One of my `friends` is in America.
+- One of the `cities` in India has the Taj Mahal.
+- One of my `teachers` taught me to speak English like a celebrity.
+
+14. DON'T SAY- I am `having` four brothers and sisters - (Are you eating your brothers and sisters)
+
+- I `have` four brothers and sisters
+- I `have` two children who are teenagers
+- My brother `has` five sones and one daughter
+
+15. DON'T SAY- He `do` not have good manners. (He/She/It - Always use does)
+
+- He `doesn't` have good manners.
+- He `doesn't` speak politely with this neighbors.
+
+16. DON'T SAY- Does she `has` a car? (Always use `have` with does as a helping verb)
+
+- Does she `have` a car?
+- Rahul doesn't `have` the documents to apply for loan.
+- Does he/she `have` the driving license to be driving at such an early age?
+
+17. DON'T SAY- He has whiter `hairs`. (Hair is an `uncountable` noun - do not add `s` Eg. `Milk`, `Water`, `Sugar`)
+
+- I started to get gray `hair` in my thirties.
+- You have a good and think `hair`.
+
+18. DON'T SAY- I look forward to `see` you next month.
+
+- I look forward to `seeing` you next month.
+- I am looking forward to `seeing` you next month.
