@@ -197,3 +197,52 @@
     - I wish `it` `were` Friday.
     - She requested that `he` `raise` his hand.
     - The foreman demanded that `joe` `wear` safety googles.
+
+# 06/APRIL/2022 (WEDNESDAY)
+
+### Travel Vocabularies
+
+- accommodation
+- all holiday - A time after you lost your job.
+  - He lost his job yesterday. Not its all holiday for him.
+- all-inclusive - A hotel deal where the price includes accommodation meal , meals, and drinks at any time.
+- half-board (breakfast + dinner)
+- full-board - (All three meals - breakfast, lunch, dinner)
+- to book something
+
+- breathtaking view
+- busman's holiday
+- charter flight
+- check-in desk
+- far-off destination
+- getting away from it all
+
+- go off the beaten track: to visit an uncommon places
+  - Unlike my brother, I prefer to go off the beaten track
+- guided tour
+- head for
+  - I am heading for France for my next holidays.
+- holiday brochure
+- holiday destination
+- holiday of a lifetime
+
+- holiday resort
+- hordes of tourist
+- in the middle of nowhere
+- local crafts
+- out of season - not withing the main holiday period.
+- passport control
+- package tour - Fixed price package
+- picturesque village
+- places of interest
+- short break
+- stunning landscape
+
+- to go sightseeing
+- to travel on foot/horse
+- to travel by bus/place/car/bicycle/motorcycle
+- tourist attractions
+- tourist trap
+- travel agency
+- wildlife safari - An observational holiday, (To observe something)
+- youth hostel
