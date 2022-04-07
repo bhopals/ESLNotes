@@ -246,3 +246,21 @@
 - travel agency
 - wildlife safari - An observational holiday, (To observe something)
 - youth hostel
+
+# 07/APRIL/2022 (THURSDAY)
+
+- Plausible Solution
+- Language compels you to specify something
+- Little Linguistic Piculiraties
+- Scientists and philosophers have been grappling with this thorny question for centuries.
+- Language is innate and hard-wired in your brain
+- Small, even apparently insignificant differences between <something>
+- The brain is shaped by experience
+- There is a tendency to do <something>
+- The general consensus is that...
+- It may be intriguing
+- detect undeclared quarantine items
+- on-the-spot fine fine
+- conceal items
+- A very high standard of hygiene and very safe food and drinking water.
+- Special precautions are necessary
