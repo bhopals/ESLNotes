@@ -264,3 +264,24 @@
 - conceal items
 - A very high standard of hygiene and very safe food and drinking water.
 - Special precautions are necessary
+
+# 08/APRIL/2022 (FRIDAY) - MOVIE - The Book Thief
+
+- You do not say much (When someone is very quiet)
+- You are very much mistaken
+- I feel awfully light-headed that I will live
+- Shape the unique personality of nation
+- A Person is only as good as their words
+- England has declared war on us (The level of excitement in kids)
+- A mother never gives up on their children.
+- If your eyes could speak what would they say
+- We shall call it a night/day.
+- Biting wind / Driving Snow
+- You keep a lot to yourself
+- Conscript - enlist in army
+- WE WERE JUST BEING PEOPLE; THAT IS WHAT PEOPLE DO
+- Greatest wonder
+- No one lives forever
+- I AM HAUNTED BY HUMANS
+  - it means that sometimes humans can get so cruel and unpredictable that even death, which is supposedly the greatest evil
+    and the ultimate end, is afraid of them or of what they're going to do next.
