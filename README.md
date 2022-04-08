@@ -229,3 +229,81 @@ Instead of saying "I Don't know", there are some better phrases (14 ways) that y
 
 - I look forward to `seeing` you next month.
 - I am looking forward to `seeing` you next month.
+
+### Bored? 5 ways to spend your free time - Vocabularies / Phrases
+
+- https://www.youtube.com/watch?v=gr5Iyu7U5z4
+
+- constantly busy with <something>
+- use our time efficiently
+- Time is out most valuable resource.
+- We cannot make more time, like we make more money
+- We end up being glued to a phone, TV, or a computer screen.
+- That might ease our boredom in the moment
+- Somethingthat could actually benefit us greatly in the future.
+- help ease your boredom and teach you to use your free time more productively.
+
+- 1. READING
+
+  - Reading is extremely underrated.
+  - Best way to expand your knowledge
+  - It can give you a massive competitive advantage
+  - Able to develop skills and gain knowledge
+  - Most people scrolling on their phones, browsing social media, or watch Netfilxs/Youtube
+  - Books expose you to new ideas and philosophies
+  - High performing intelligent individual
+
+- 2. PLANNING AND GOAL SETTING
+
+  - People often forget why they are pursuing something at the first place.
+  - The lack of direction
+  - It provides you with the inspiration and motivation to get stuff done.
+  - Setting Goals is fun and you get a nice dopamine rush, when you imagine yourself achieving them.
+  - You Brain likes to filter out things that it deems less important.
+  - A physical list will serve as a visual reminder
+
+- 3. EXERCISE
+
+  - Exercise is something everyone knows is good and should be done frequently
+  - It improves our brain function
+  - When we exercise, our brain releases a cocktail of neurotransmitters, which balance our mood.
+  - This coctail (Serotonin, noreponephrine, dopamine), makes is feel good, while reducing anxiety and depression
+  - But our brain also releases something called brain-derived neurotrophic factor (BDFN).
+  - This protein supports survival of our brain neurons, while boosting growth of new synapses.
+  - To put it simply, it preserves and grows new brain cells.
+  - This allows you to make better connections and remember more of what you learn.
+  - Now Exercise doesn't necessarily mean an intence gym workout or a seaty run, Taking a
+    walk has also shown to have some similar brain benefits.
+  - Exercise benefits us, by helping us disconnect from external stimuli
+  - We constantly stimulating our brains with external distractions
+  - Disconnecting from all the external stuff.
+  - Basically you step off your minds gas pedal
+  - Instead of taking in new information, you are letting your brain process existing information
+
+- 4. CLEAN UP YOUR ROOM
+
+  - Our physical environment has a huge impact on our cognition, behaviour, and decision making.
+  - Once we remove all this visual clutter from our environment, we are able to focus and process information better
+    becuase there are fewer things competing for our attention.
+  - If it is tough, You should not go for a sparkling clean, instead you should just go for slightly cleaner
+  - Straighten out the carpet
+  - Throw those leftovers into the trash
+  - Arrange all the papers laying around
+  - Organize your workspace a little bit
+  - You are aiming for <something>
+
+- 5. LEARN A NEW SKILL
+  - You do not know what to do with your free time
+  - When we get to experience something novel, we tend to get a surge of motivation, as long as we find an activity enjoyable.
+  - This motivation and positive mood, can then spread to other areas of our lives.
+  - Gain a momentum from this experiance, and use it in other areas
+
+Vocabulary: Adjectives
+
+- EASY - effortless, a pushover, a piece of cake
+- DIFFICULT - tough, a lot to ask, a tall order, gruelling
+- GOOD - spot on, sound, nice
+- GREAT - out of this world, outstanding, first-rate, top notch, superb
+- BAD - awful, shocking, terrible, a real let-down
+- IMPORTANT - key, crucial, pivotal, is of a paramount importance
+- BEAUTIFUL - stunning, takes your breath away, gorgeous, magnificient, catches your eye
