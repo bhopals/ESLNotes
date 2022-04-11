@@ -285,3 +285,46 @@
 - I AM HAUNTED BY HUMANS
   - it means that sometimes humans can get so cruel and unpredictable that even death, which is supposedly the greatest evil
     and the ultimate end, is afraid of them or of what they're going to do next.
+
+# 11/APRIL/2022 (MONDAY) - Complete Sentence
+
+- Incomplete sentence is called Sentence Fragment (Missing `Subject` or `Verb`, or BOTH (`Subject` + `Verb`)).
+- Complete Sentence - SUBJECT + VERB and IT MUST EXPRESS A COMPLETE IDEA (An Independent clause).
+  - `Joe` `left` his coffee.
+- Sentence Fragment - no VERB + no Subject
+  - in the afternoon after the end of the difficult French Examination
+- Sentence Fragment - Only VERB + no Subject
+  - `Spilled` her drink all over the new white rug
+- Sentence Fragment - Only Subject + no Verb
+
+  - `The man` with the tattoo of two snakes
+
+- Incomplete Ideas - The Sentence Fragment
+
+  - Sometimes a clause has a Subject and a Verb, but it is still not a complete sentence
+    because it does not present a complete idea. Let's take a look at these examples
+
+    - Carlo loves
+    - Wan Bo is buying
+    - The teacher explained.
+
+  - In these three examples, we have subjects and verbs, but we need objects to make complete sentences.
+    What (or Whom) does Carlo love? What is Bo Buying? What did the teacher explained?
+    We must add more information in order to make a complete sentence.
+
+    - Carlo loves cold pizza
+    - Wan Bo is buying a new wig
+    - The teacher explained the answer.
+
+  - A Subject and verb taken together form a clause. When a clause forms a complete idea and can
+    stand by itself, it is called an Independent clause.
+  - In order to form a complete sentence, there must be at least one independent clause.
+
+- Transitive Verbs v/s Non-Transitive Verbs
+  - A Verb can be described a transitive or intransitive based on whether it requires an object to
+    express a complete thought or not. A TRANSITIVE verb is one that only makes sense if it exists
+    on an object. An INTRANSITIVE verb will make senset without any object. Some verbs may be used both ways.
+
+#### Notes
+
+- Transitive Verbs v/s Non-Transitive Verbs
