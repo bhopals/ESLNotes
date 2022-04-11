@@ -320,11 +320,28 @@
     stand by itself, it is called an Independent clause.
   - In order to form a complete sentence, there must be at least one independent clause.
 
-- Transitive Verbs v/s Non-Transitive Verbs
+- Transitive Verbs v/s Intransitive Verbs
+
   - A Verb can be described a transitive or intransitive based on whether it requires an object to
     express a complete thought or not. A TRANSITIVE verb is one that only makes sense if it exists
     on an object. An INTRANSITIVE verb will make senset without any object. Some verbs may be used both ways.
 
-#### Notes
+  - Transitive Verbs
 
-- Transitive Verbs v/s Non-Transitive Verbs
+    - Transitive verbs are not just verbs that can take an object; they demand objects. Without an object to affect,
+      the sentence that a transitive verb inhabits will not seem complete.
+    - Example
+      - The girls carry water to their village.
+      - Juan threw the ball.
+      - Could you phone the neighbors?
+      - I caught a cold.
+      - She loves rainbows.
+      - Lila conveyed the message.
+
+  - Intransitive verbs
+    - An intransitive verb is the opposite of a transitive verb: It does not require an object to act upon.
+    - Example
+      - They jumped.
+      - The dog ran.
+      - She sang.
+      - A light was shining.
