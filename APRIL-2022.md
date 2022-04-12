@@ -345,3 +345,53 @@
       - The dog ran.
       - She sang.
       - A light was shining.
+
+- Clauses Beginning with Subordinating Conjunctions - Dependent Clauses
+  c - Complete Sentence / F (Fragment - no subject, no verb, )
+
+1. C - Subject + Trans. Verb + Object
+2. F - Dependent Clause started with Coordinating Conj.
+3. F - No Subject
+4. Macey looks to look out of the Window. - C -
+5. F - Dependent Clause
+6. C
+7. F - NO verb
+8. F - Incomplete idea (?)
+9. C - (the dog)
+10. F - Dependent Clause
+11. F - No Subject
+12. F - Dependent Clause (Before lunch)
+13. F
+14. F - Incomplete Idea
+15. F - Incomplete Idea
+16. C
+17. F - Dependent Clause
+18. F - Incomplete Idea
+19. C
+
+# English Conversation - 11/APRIL/2022 (MONDAY)
+
+- Common Native Idioms
+
+  - I'd (would) be down (Grammatically Incorrect but allowed in spoken) / I am down / I am all in - You want to go
+  - It's their gem.
+  - eh/hey - a kind of tag
+    - Wanna go to the store..ya? (England)
+    - Wanna go to the store ...eh? (Canada)
+  - Hit the road - set out on a journey.
+  - Grab a bit - Read to eat - Quick snacks
+  - kerfuffle - ker·fuf·fle - Chaotic / Commotion
+  - Close call -
+  - Bless your heart
+  - Sitting on a fence - Cannot decide
+
+    - A person's lack of decisiveness, neutrality or hesitance to choose between two sides in an argument or a
+      competition, or inability to decide due to lack of courage.
+
+  - leave no stone unturned
+  - Straight from the horses mouth
+  - He's off his rocker - He is insane
+  - He has got on his rocking chair - He has gone insane
+  - It takes two to tango - (tango is a dance) - both parties involved in a situation or argument are responsible for it.
+  - Double Double - Double Serving + Cream
+  - Double Double Milk- Double Serving + Milk
