@@ -299,6 +299,14 @@
 
   - `The man` with the tattoo of two snakes
 
+- Examples
+
+  - Joe left his coffee cup on top of the car. (COMPLETE SENTENCE)
+  - Spilled her drink all over the new white rug. (SENTENCE FRAGMENT)
+  - The man with the tattoo of two snakes. (SENTENCE FRAGMENT)
+  - in the afternoon after the end of the difficult French examination. (SENTENCE FRAGMENT)
+  - The pilot chewed her fingernails during the terrible storm. (COMPLETE SENTENCE)
+
 - Incomplete Ideas - The Sentence Fragment
 
   - Sometimes a clause has a Subject and a Verb, but it is still not a complete sentence
@@ -319,6 +327,27 @@
   - A Subject and verb taken together form a clause. When a clause forms a complete idea and can
     stand by itself, it is called an Independent clause.
   - In order to form a complete sentence, there must be at least one independent clause.
+
+- CLAUSES BEGINNING WITH SUBORDINATING CONJUNCTIONS - DEPENDENT CLAUSES
+
+  - A dependent clause has a subject and a verb. However, it begins with a subordinating conjunction,
+    so it cannot stand alone. It is not a complete sentence.
+
+    `Barbara wrote a long paragraph` - This is an independent caluse and a complete sentense.
+
+    `After Barbara wrote a long paragraph` - The addition of conjunction after changes
+    the clause from INDEPENDENT to DEPENDENT. We are waiting for more information at the end,
+    so it is incomplete. In order to make it complete sentence, we must add an INDEPENDENT CLAUSE.
+
+    `After Barbara wrote a long paragraph, she went for a walk` - Now we have a complete sentence.
+
+    - Examples (Complete Sentence)
+      - If you love me, you will let my mother stay with us for a month.
+      - Because it is raining, we cannot have a picnic.
+      - When we saw her ex-boyfriend, Carol became angry.
+      - Although Wiemer has a lot of money, he does not have any friends.
+      - Ms. Witherspoon sold the house after her father died.
+      - Yao studied extra vocabulary because he wanted to get a good grade.
 
 - Transitive Verbs v/s Intransitive Verbs
 
@@ -347,27 +376,27 @@
       - A light was shining.
 
 - Clauses Beginning with Subordinating Conjunctions - Dependent Clauses
-  c - Complete Sentence / F (Fragment - no subject, no verb, )
+  `C` - Complete Sentence / `F` (Fragment - no subject, no verb, dependent clause, incolplete idea )
 
-1. C - Subject + Trans. Verb + Object
-2. F - Dependent Clause started with Coordinating Conj.
-3. F - No Subject
-4. Macey looks to look out of the Window. - C -
-5. F - Dependent Clause
-6. C
-7. F - NO verb
-8. F - Incomplete idea (?)
-9. C - (the dog)
-10. F - Dependent Clause
-11. F - No Subject
-12. F - Dependent Clause (Before lunch)
-13. F
-14. F - Incomplete Idea
-15. F - Incomplete Idea
-16. C
-17. F - Dependent Clause
-18. F - Incomplete Idea
-19. C
+1. Nestor shaved his bread - (C => Subject + Trans. Verb + Object)
+2. When I see her - (F - Dependent Clause started with Coordinating Conj.)
+3. Loves to read in the kitchen - (F - No Subject)
+4. Macey looks to look out of the Window. - (C)
+5. If you really need my help - (F - Dependent Clause)
+6. The nurse helped the sick doctor - (C)
+7. The incrediblly large scar on his nose - (F - No verb)
+8. Is a beautiful day - (F - Incomplete idea)
+9. The dog barked all night along - (C)
+10. Because the sun is so hot - (F - Dependent Clause)
+11. Every day, go to work early - (F - No Subject)
+12. After the very exciting game - (F - Dependent Clause)
+13. Before lunch, Hanna worked out - (C)
+14. Never in my whole life - (F - No Subject and No Verb)
+15. Nancy loves - (F - Incomplete Idea)
+16. Our teacher suggested - (F - Incomplete Idea)
+17. Sarah dislikes fish - (C)
+18. Giovanni likes - (F - Incomplete Idea)
+19. The family sang and danced all night. (C)
 
 # English Conversation - 11/APRIL/2022 (MONDAY)
 
