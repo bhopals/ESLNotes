@@ -471,6 +471,43 @@
 39. `After he returned from his last voyage, the very old sailor` retired from his job.
 40. `While Matilda was watching the three-hour movie`, I took a nap.
 
-### Passive
+# 13/APRIL/2022 (WEDNESDAY) - Active Passive Voice
+
+### Active Passive Voice
 
 - In an active sentence, the subject is the doer of the verb (= does the action), and the object is
+- In PAssive all verbs are IN TRANSITIVE
+- IN Active Voice Verbs can either be TRANSITIVE or INTRANSITIVE
+
+#### Exercise - PAST TENSE
+
+1. Lee Harvey killed President Kennedy in 1963 (Active)
+   President Kennedy was killed in 1963 by Lee Harvey (Passive)
+   President Kennedy got killed in 1963 by Lee Harvey (Passive)
+
+2. Alexander Graham Bell invented the telephone (Active)
+   The Telephone was invented by Alexander Graham Bell (Passive)
+   The Telephone got invented by Alexander Graham Bell (Passive)
+
+3. John Lennon wrote the song "imagine" (Active)
+   The song "imagine" was written by John Lennon (Passive)
+   The song "imagine" got written by John Lennon (Passive)
+
+4. A Hurricane destroyed many homes in Florida (Active)
+   Many homes were destroyed in Florida by a hurricane(Passive)
+   Many homes got destroyed in Florida by a hurricane(Passive)
+   Many Florida homes were destroyed by a hurricane(Passive)
+   Many Florida homes got destroyed by a hurricane(Passive)
+
+5. Ancient Romans spoke Latin (Active)
+   Latin was spoken by Ancient Romans. (Passive)
+   Latin got spoken by Ancient Romans. (Passive)
+
+6. The Allies defeated the Gremans in 1945 (Active)
+   The Germans were defeted in 1945 by allies (Passive)
+   The Germans got defeted in 1945 by allies (Passive)
+
+#### Exercise - PRESENT TENSE
+
+- The car `is being repaired` now.
+- Dinner `was served` at 07:00 last night.
