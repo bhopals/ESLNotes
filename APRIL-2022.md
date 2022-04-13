@@ -286,7 +286,7 @@
   - it means that sometimes humans can get so cruel and unpredictable that even death, which is supposedly the greatest evil
     and the ultimate end, is afraid of them or of what they're going to do next.
 
-# 11/APRIL/2022 (MONDAY) - Complete Sentence
+# 11/APRIL/2022 (MONDAY) - Complete Sentence - Part 1
 
 - Incomplete sentence is called Sentence Fragment (Missing `Subject` or `Verb`, or BOTH (`Subject` + `Verb`)).
 - Complete Sentence - SUBJECT + VERB and IT MUST EXPRESS A COMPLETE IDEA (An Independent clause).
@@ -424,3 +424,53 @@
   - It takes two to tango - (tango is a dance) - both parties involved in a situation or argument are responsible for it.
   - Double Double - Double Serving + Cream
   - Double Double Milk- Double Serving + Milk
+
+# 12/APRIL/2022 (TUESDAY) - Complete Sentence - Part 2
+
+- Exercise - ( C - Complete - Independent Clause)
+
+1.  `After she got home from work`, I ate a delicious dinner.
+2.  `I never cook on Sunday`. (C)
+3.  `When Kristie walked into the room`, I was playing games.
+4.  `If you need a little money`, feel free to reach out to me.
+5.  `Mark loves` going out with his school friends.
+6.  `Before Rita left for the movies`, she parked her car in the parking area.
+7.  `Otelia is a very happy woman.` (C)
+8.  `Robert hates` travelling alone.
+9.  `Because Lester is so lazy`, she loves using the remote control - she did not complete her homework.
+10. `It rained all day and night.` (C)
+11. `The doctor told` a patient that she needs to take a break for a long time.
+12. `I always was the dishes.` (C)
+13. `Although Pat studied hard`, he did not score well in his test.
+14. `The Compute is very fast.`(C)
+15. `After I watched the late-night news`, I could not stop thinking about some part of the news.
+16. `I can't belive that Rocco is buying` drugs
+17. `In the late fall all leave on the trees` will fall off.
+18. `Roberto really loves` playing soccer.
+19. `Because Lee is such a good student`, every teacher loves him.
+20. `It snowed on Monday and Tuesday.` (C)
+
+21. `The professor answered` the questions.
+22. `Hilda cried`. (C)
+23. `Although Mary studied for six hours yesterday`, she wasn't successful.
+24. `The very takk basketball players hates` jumping.
+25. `After I watched my favorite TV show`, I went to bed.
+26. `Robert cleaned the house.` (C)
+27. `When Robert finished cleaning`, he took a nap.
+28. `In the late afternoon, the soccer players` talked to each other.
+29. I `Studied in the library and had a cup in the cafeteria`
+30. `The beautiful movie star kissed` his trophy.
+31. `The doctor performed the operation.` (C)
+32. `Early in the morning, just before the breakfast`, I went for a jog.
+33. `Harry never flew in a plane in his whole life`. (C)
+34. `Before they finished their evening walk`, they took some photos.
+35. `The plane landed on time.` (C)
+36. `The book says that` we can succeed.
+37. `Jimmy was so angry that he yelled at` his boss
+38. `The bird flew away` (C)
+39. `After he returned from his last voyage, the very old sailor` retired from his job.
+40. `While Matilda was watching the three-hour movie`, I took a nap.
+
+### Passive
+
+- In an active sentence, the subject is the doer of the verb (= does the action), and the object is
