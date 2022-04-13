@@ -512,10 +512,68 @@
 - The car `is being repaired` now.
 - Dinner `was served` at 07:00 last night. / Dinner had been served at 07:00 last night.
 - Your cheque `has` already `been deposited` in the bank.
-- The newspaper is delivered before 06:00 am every day.
-- The book was published in 1950.
-- The patient will be examined by a surgeon tomorrow. / The patient is going to be examined by a surgeon tomorrow.
-- The question will be discussed at our next meeting. / The question is going to be discussed at our next meeting.
-- Twenty new workers had been hired last month. / Twenty new workers were hired last month.
-- There library books have already been returned.
-- Hundreds of people were injured in the train
+- The newspaper `is delivered` before 06:00 am every day.
+- The book `was published` in 1950.
+- The patient `will be examined` by a surgeon tomorrow. / The patient is going to be examined by a surgeon tomorrow.
+- The question `will be discussed` at our next meeting. / The question is going to be discussed at our next meeting.
+- Twenty new workers `had been hired` last month. / Twenty new workers were hired last month.
+- There library books `have already been returned`.
+- Hundreds of people `were injured` in the train.
+
+#### Exercise
+
+- People `speak` English in Australia (Active)
+- English `is spoken` in Australia (by people).(Passive)
+
+- I `am writing` the report now. (Active)
+- The report `is being written`. (Passive)
+
+- The dog `bit` a mailman. (Active)
+- A mailman `is bitten` (by dog). (Passive)
+
+- He `was still fixing` the car when I arrived at the garage. (Active)
+- The car `was still being fixed` when I arrieved at the garage. (Passive)
+
+- Someone `will give` us a tour of the museum. (Active)
+- A tour of the museum `will be given` to us. (Passive)
+
+- They `are going to tear` down the old building. (Active)
+- The old building `is going to be torn` down. (Passive)
+
+- She `has already given` him the bad news. (Active)
+- The bad news `has already been given` to him. (Passive)
+
+- We `had built` the house before the tsunami hit. (Active)
+- The houses `had been built` before the tsunami hit. (Passive)
+
+- The `can deliver` the furniture on Tuesday. (Active)
+- The furniture `can be delivered` on Tuesday. (Passive)
+
+- You `should have finished` your homework hours ago. (Active)
+- You homework `should have been finished` hours ago. (Passive)
+
+#### Exercise = Passive to Active
+
+- Fifty kids `are picked` up for school by this bus every day.
+- This bus `picks` up fifty kids for school everyday.
+
+- The tax `is already included` in this bill. (Passive)
+- This bill already `includes` the tax. (Active)
+
+- This office `should have been cleaned` by someone.
+- Someone `should have cleand` this office.
+
+- His dogs `are being fed` right now.
+- He `is feeding` his dogs right now.
+
+- Oranges `are grown` in California.
+- Farmers `grow oranges` in California.
+
+- My house `will have been painted` by the painters by the time you visit.
+- The painters `will have painted` the house by the time you visit.
+
+- Your seat belt `must be worn` at all times.
+- You `must wear` seat belt at all times.
+
+- The problem `had been fixed` by the CEO by the end of the day.
+- The CEO `had fixed` the problem by the end of the day.
