@@ -507,7 +507,15 @@
    The Germans were defeted in 1945 by allies (Passive)
    The Germans got defeted in 1945 by allies (Passive)
 
-#### Exercise - PRESENT TENSE
+#### Exercise
 
 - The car `is being repaired` now.
-- Dinner `was served` at 07:00 last night.
+- Dinner `was served` at 07:00 last night. / Dinner had been served at 07:00 last night.
+- Your cheque `has` already `been deposited` in the bank.
+- The newspaper is delivered before 06:00 am every day.
+- The book was published in 1950.
+- The patient will be examined by a surgeon tomorrow. / The patient is going to be examined by a surgeon tomorrow.
+- The question will be discussed at our next meeting. / The question is going to be discussed at our next meeting.
+- Twenty new workers had been hired last month. / Twenty new workers were hired last month.
+- There library books have already been returned.
+- Hundreds of people were injured in the train
