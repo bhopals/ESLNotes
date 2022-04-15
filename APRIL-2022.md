@@ -577,3 +577,79 @@
 
 - The problem `had been fixed` by the CEO by the end of the day.
 - The CEO `had fixed` the problem by the end of the day.
+
+- Cleaniness is closer to Godniness
+- Insuniate
+- Intonation and Articulation
+
+# 14/APRIL/2022 (THURSDAY)
+
+### CAUSATIVE VERBS
+
+- Casuative Verbs mean one person is causing another persons to do something.
+  English has three true casuative verbs - `HAVE`, `LET`, `MAKE`
+
+  - CASUATIVE VERBS
+    - STRONGER <==== WEAKER
+      make (force) <== have (get) <== let (allow)
+
+### PATTERN
+
+Subject (Person) + Have/Let/Make (any tense) + Object (Person) + Base Verb (no `ing` or `ed` or `to` (no infinity) / no tense)
+
+### EXAMPLES
+
+- HAVE
+
+  - The teacher had the students write essays in class (Positive)
+  - Mr. Johnson won't have the elecetrician put in an extra switch (Negative)
+  - Do you have someone check your smoke detectors every year? (Question)
+
+- MAKE
+
+  - John's parents are letting him stay out late night (Positive)
+  - Our manager never lets us go home earlier than usual (Negative)
+  - Will hse let us have an extension on the project (Question)
+
+- LET
+
+#### Notes
+
+#### Exercise - Change to Causuative Verbs (MADE <== HAVE <== LET)
+
+allow - let (Least stronger)
+get - have (Medium Stronger)
+force, cause - make (Strongest)
+
+1. My friends parents `allowed` her `to` stay over at my house last night.
+   My friends partents `let` her stay over at my house last night.
+
+2. My brother `forced` me `to` do his hoemwork for him
+   My brother `made` me do his hoemwork for him
+
+3. Her Neighbour `got` her `to` move her car.
+   Her Neighbour `had` her move her car.
+
+4. The earthquake `caused` the rescue volunteers `to` work day and night.
+   The earthquake `made` the rescue volunteers work day and night.
+
+5. The flood has `caused` people `to` evacuate to higher ground
+   The flood has `made` people evacuate to higher ground
+
+6. Did you `get` your boyfriend `to` call you?
+   Did you `have` your boyfriend call you?
+
+7. Did you `allow` your boyfriend `to` call you?
+   Did you `let` your boyfriend call you?
+
+8. The hotel manager won't `allow` us `to` bring our dog to the hotel
+   The hotel manager won't `let` us bring our dog to the hotel
+
+9. The judge `forced` the clerk `to` retype the entire document.
+   The judge made the clerk retype the entire document.
+
+10. The lack of communication `caused` the workers `to` feel unappreciated.
+    The lack of communication `had` the workers feel unappreciated.
+
+11. Does your boss `allow` you `to` take long lunch breaks.
+    Does your boss `let` you take long lunch breaks.
