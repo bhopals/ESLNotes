@@ -653,3 +653,29 @@ force, cause - make (Strongest)
 
 11. Does your boss `allow` you `to` take long lunch breaks.
     Does your boss `let` you take long lunch breaks.
+
+# 18/APRIL/2022 (MONDAY) - EASTER Off day
+
+Movie to watch on MONDAY - https://www.imdb.com/title/tt0084707/
+
+- Native language is not stress times but a syllable timed
+
+# 19/APRIL/2022 (TUESDAY)
+
+- Experiencing hunger and developing an understanding for those people in the world
+  who do not have much food to eat.
+- People dress in their finest clothes and decorate their homes with lights and ornaments
+- Share their blessings and good fortunes by feed the poor and making donations to their mosque.
+- Good deeds
+
+- IDIOM
+  - pull a fast one on someons - trick or deceive
+    - He tried to pull a fast one on me when he gave me thr phony ten-dollar bill
+  - fast track
+  - life in the fast lane
+    - We lived in New York City for a year, but we did not like life in the fast lane,
+      so we moved back to a small town.
+- Expression
+  - charity begins at home
+  - count your blessings
+    - Why do you complains so often? You are a very fortunate person. You really should count your blessings.
