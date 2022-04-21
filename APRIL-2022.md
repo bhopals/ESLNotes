@@ -679,3 +679,22 @@ Movie to watch on MONDAY - https://www.imdb.com/title/tt0084707/
   - charity begins at home
   - count your blessings
     - Why do you complains so often? You are a very fortunate person. You really should count your blessings.
+
+# 20/APRIL/2022 (WEDNESDAY)
+
+- Be careful what you wish for
+- Attract criticism
+- Magnificient Beaches
+- The island is influenced by tropical monsoon winds
+- The building itself is buil with natural materials, such as local stone and wood.
+- All utilities (cultery, hygience items, towels, kitchen utensils) are made of bio-degradable materials
+- We aim at providing excellent service without hurting the local environment
+- Little secluded islands are accessible from ...
+- Stylish furnishings, gracious hospitality
+- Turquoise water
+- Strong artistic pursuit
+- Interpretation
+- Art is quite Subjective
+- Kindergarten >> Elementary School >> Middle School >> High School >> (College) More practical (employee oriented) OR (University) Master/PHD - academics.
+- Very Accomplished in their home town
+- It is very relevant
