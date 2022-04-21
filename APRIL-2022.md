@@ -682,6 +682,10 @@ Movie to watch on MONDAY - https://www.imdb.com/title/tt0084707/
 
 # 20/APRIL/2022 (WEDNESDAY)
 
+seed
+rumin
+david
+
 - Be careful what you wish for
 - Attract criticism
 - Magnificient Beaches
