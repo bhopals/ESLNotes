@@ -702,3 +702,30 @@ david
 - Kindergarten >> Elementary School >> Middle School >> High School >> (College) More practical (employee oriented) OR (University) Master/PHD - academics.
 - Very Accomplished in their home town
 - It is very relevant
+
+# 21/APRIL/2022 (THURSDAY)
+
+- English speaking session
+
+# 20/APRIL/2022 (WEDNESDAY)
+
+Movie day
+
+- August rush
+- Good Will Hunting
+
+- wind chimes
+- I just had the most incredible night of my life.
+- Out you go.
+- Tell the cops you are AWOL - absent without leave
+- Harmonic connection between HUMANS
+- Harmonic Dreams
+- Are all Indian/Irish People this would
+- Drives off into the sunset.
+- Please consent for the release for adoption
+- Do you like music - More than my food
+- The Black Shawn
+- I am particularly proud of
+- A dominant narrative of a relationship
+- That is a very hard narrative to sell to people
+- In democracy sentiment of people do matter
