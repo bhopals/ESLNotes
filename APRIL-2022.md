@@ -729,3 +729,4 @@ Movie day
 - A dominant narrative of a relationship
 - That is a very hard narrative to sell to people
 - In democracy sentiment of people do matter
+- You do terrorism by night and business as usual by day
