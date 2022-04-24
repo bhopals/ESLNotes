@@ -712,21 +712,75 @@ david
 Movie day
 
 - August rush
+
+  - wind chimes
+  - I just had the most incredible night of my life.
+  - Out you go.
+  - Tell the cops you are AWOL - absent without leave
+  - Harmonic connection between HUMANS
+  - Harmonic Dreams
+  - Are all Indian/Irish People this would
+  - Drives off into the sunset.
+  - Please consent for the release for adoption
+  - Do you like music - More than my food
+  - The Black Shawn
+  - I am particularly proud of
+  - A dominant narrative of a relationship
+  - That is a very hard narrative to sell to people
+  - In democracy sentiment of people do matter
+  - You do terrorism by night and business as usual by day
+
 - Good Will Hunting
 
-- wind chimes
-- I just had the most incredible night of my life.
-- Out you go.
-- Tell the cops you are AWOL - absent without leave
-- Harmonic connection between HUMANS
-- Harmonic Dreams
-- Are all Indian/Irish People this would
-- Drives off into the sunset.
-- Please consent for the release for adoption
-- Do you like music - More than my food
-- The Black Shawn
-- I am particularly proud of
-- A dominant narrative of a relationship
-- That is a very hard narrative to sell to people
-- In democracy sentiment of people do matter
-- You do terrorism by night and business as usual by day
+  - Birds twittering
+  - Aeroplane flying overhead
+  - renowned astrophysians
+  - lowly MIT professors
+  - I am gonna take off
+  - Put <something> on layaway => put your sandwich on layaway
+  - I think we should establish a good line of credit
+  - payment plans
+  - to ascertain the identity of mistery man
+  - arraignment - An arraignment involves the accused being identified and called to the bar. The charge is
+    then read to the accused, and they are asked for their plea. The accused then either pleads 'guilty'
+    or 'not guilty'.
+  - I got fired because management was restructuring
+  - You get canned more than Tuna
+    - Canned is indeed slang for being fired. You get fired more often than tuna fish is put in a can
+  - Whats up buddy
+  - I will take a pitcher of the finest lager in the house
+  - My contention is that ...
+    - contention - opinion, argument, claim, stand
+    - contention - disagreement, dispute
+  - aptly - in a manner that is appropriate or suitable in the circumstances.
+    - Examples
+      - It is aptly said you are what you eat.
+      - The recent category five hurricane could be aptly described as the worst natural disaster of the year.
+  - How the economy of India was Entreprenuil and capitalist
+  - Waste some more money on my overpriced education
+  - Do you like apples? Yeah.. Well, I got her number. How do you like them apples (`Will`/`Mat Damon` said this)
+  - I am afforded the right to speak in my own defence.
+  - Well, actually, this is just a shot in the dark
+  - Dots, not feathers
+  - His genius was un-paralled
+  - You donot have the faintest idea what you are talking about.
+  - You persume to know everything about me
+  - It is fantastically boring...
+  - Put it on my tap
+  - It reflects poorly on me
+  - I think you could show me some appreciation
+  - We do not want to brag about that
+  - Get some sheep and tend to that
+  - When I pull up to the curb and when I get to your door
+  - It was a concious choice
+  - I hope we keep in touch
+  - You do what is in your heart, and you will be fine.
+  - I was being Ironical
+  - I had to see about my girl
+
+- Chronic water shortages
+- not sustainable solution
+- sometimes modern problems require ancient solutions
+- revive the farming methods to grow crops in the most hostile environment.
+- Go Baby we are losing daylight
+- adopt environment responsible principles that promote sustainable and regenerative development practices
