@@ -784,3 +784,6 @@ Movie day
 - revive the farming methods to grow crops in the most hostile environment.
 - Go Baby we are losing daylight
 - adopt environment responsible principles that promote sustainable and regenerative development practices
+- supply the huge demand for a scarce resource like a fresh water in a desert
+- desalination process
+- reverse climate change
