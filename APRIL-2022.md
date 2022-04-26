@@ -787,3 +787,43 @@ Movie day
 - supply the huge demand for a scarce resource like a fresh water in a desert
 - desalination process
 - reverse climate change
+
+# 25/APRIL/2022 (MONDAY)
+
+### Game 1
+
+- 1. adjective
+- 2. proper noun (female noun)
+- 3. noun (the name of the a room in a house)
+- 4. noun (animal)
+- 5. proper noun (male name)
+- 6. verb ending in -ing
+- 7. noun (food - plurals)
+- 8. adverb
+- 9. adjective
+- 10. proper noun (Same name as #2)
+- 11. verb (past)
+- 12. noun
+- 13. proper noun (same name as #5)
+- 14. verb ending in -ing
+- 15. noun (same food as #7)
+
+One (#1) Thrusday night, (#2) was sitting in the (#3) with her pet (#4), (#5).
+She was reading her favorite book. The History of (#6), and snacking on some (#7).
+(#8), there was a (#9) noise. (#10) (#11) to the (#12) where she was sitting and ran out of the
+room to find the source of the noise. She did not find anything. When she returned, the door was locked.
+She could hear (#13) (#14). "More (#15) for me he said".
+
+One (amazing) Thrusday night, (Sherlin) was sitting in the (living room) with her pet (dog), and (Alex).
+She was reading her favorite book. The History of (dying), and snacking on some (chips).
+(suddenly), there was a (loud) noise. (Sherlin) (returned) to the (place) where she was sitting and ran out of the
+room to find the source of the noise. She did not find anything. When she returned, the door was locked.
+She could hear (Alex) (eating). "More (chips) for me he said".
+
+### How to Use a Comma
+
+- 1. With the ongoing battle between Urkaine and Russia, Ukraine is suffering huge humanitarian crisis.
+- 2. People are leaving netflix, and that's why the company is suffering a huge loss.
+- 3. My nephew, who is an Olympic old medalist, is traveling to London.
+- 4. People may object covid restrictions, however, they need to realize that the restrictions are in place for their own safety.
+- 5. I have a car, a bike, and a bicycle.
