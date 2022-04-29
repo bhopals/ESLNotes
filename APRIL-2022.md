@@ -827,3 +827,125 @@ She could hear (Alex) (eating). "More (chips) for me he said".
 - 3. My nephew, who is an Olympic old medalist, is traveling to London.
 - 4. People may object covid restrictions, however, they need to realize that the restrictions are in place for their own safety.
 - 5. I have a car, a bike, and a bicycle.
+
+#### 26/APRIL/2022 (TUESDAY) - Add missing comma
+
+- Series of item separated by COMMA(,) - noun, verb, adjective
+  - Example - Its cold, sunny, and pleasant outside
+- Introducory clause or Dependent clause separated by COMMA(,) if we start the sentence with it
+  - Example - My siste, who plays golf, came to meet me.
+- Non-essential info should be separated by COMMA(,)
+
+  - Example - If the sun comes out, we will go to the beach.
+
+- Don't eat a big snack before we go out to dinner.
+- The cookies that are starting to burn need to come out of the oven.
+- President Barack Obama is from Hawaii.
+- Your half cousin, whose first car was jaguar, just bought a yacht.
+- Jaun and Tomoko went out for lunch.
+- We pick strawberries whenever my aunt visits.
+- Our friends have some adorable Siamese kittens.
+- I bought a very big watermelon.
+- Approximately 30,000 shipments went missing.
+- The day is young, and there is still lots to do.
+
+### 27/APRIL/2022 (WEDNESDAY) - DETERMINERS
+
+- 1. So v/s Such
+- so
+- so + adjective
+- Meaning = very (Positive or Negative situations)
+- such
+- such (+ article) + adjective + noun
+- Meaning = very (Positive or Negative situations)
+
+- Examples
+- Those instructions were so complicated.
+- Those were such complicated instructions.
+
+- 2. Other, Another, and the Other
+
+  - Other, Another, and the Other as ADJECTIVES
+
+  - Other, Another, and the Other as PRONOUNS
+    - singular - general
+      - I ate my sandwich
+    - singular - specific
+    - plural - general
+    - plural - specific
+
+- 3. Quantifiers - Some and Any
+
+  - Mostly are ADVERB
+
+- 4. Many or Much
+- act as an adjective
+
+- Speaking Class
+
+  - HELP
+    - SYNONYMS
+      fullfillment of need
+      avail, service
+      aid, assitance
+      offer, assist, assitance
+      improve the condition of
+      facilitate
+      serve
+      avail
+      improve
+
+- Idioms
+  - dime a dozen - mostly found - Those antique dishes are pretty, but they're a dime a dozen; abundant;
+  - cutting corners -
+  - hang in there
+  - not a rocket science
+  - so far so good
+  - missed the boat
+  - speak of the devil
+  - I am (just) pulling your leg
+  - under the weather
+  - a penny for your thoughts
+  - perfect storm
+  - by the skin of my teeth - just in time
+  - cost me an arm and a leg
+- political will
+
+### 29/APRIL/2022 (FRIDAY) - Movie Day
+
+- SCENT OF A WOMAN
+
+- it is such a filthy habit
+- this is pathetic
+- on the contrary
+- Down deep, the man is a lump of sugar
+- His bark is worse than his bite
+- You are sharp shooting me?
+- I can make a plane fare home for christmas
+- come on up
+- a voracius reader
+- endowed with wisdom
+- by the time I pulled focus
+- standard of excellence
+- I would not have it tarnished
+- I am not quite through with you yet
+- Someone who is standout yet under priviliged
+- Don't leave anyone twisting in the wind
+- all information will be given on need-to-know basis
+- passport to heaven
+- There are only two syllable in this whole world worth saying - pussy
+- OAK Room - why did they give him a coat to wear
+- eat an agreeable meal
+- walk like you talk
+- bailed me out of trouble
+- take the fucking wax outta of your ear
+- The day we stop looking, the day we die
+- Some people live a lifetime in a minute
+- hysterical
+- eternally grateful
+- You have a one-track mind
+- describes an issue
+- stop fencing with me
+- you are exhausting my patience
+
+Write a short paragraph - SCENT OF A WOMAN
