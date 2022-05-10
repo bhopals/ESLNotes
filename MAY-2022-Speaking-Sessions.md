@@ -34,3 +34,9 @@
 - that is very admirable
 - capable of functioning in the community
 - do not humiliate him
+
+### 09 MAY (Speaking and Writing Ta)
+
+- It is often brightly colored and ornately decorated
+- ornately craved / painted / depicted
+- The ornately carved doors were made in the seventeenth century.
